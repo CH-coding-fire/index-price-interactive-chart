@@ -1,4 +1,4 @@
-date,DJIA,DJIA_return,Nasdaq_Composite_Index,Nasdaq_Composite_Index_return,S&P500,S&P500_return,Nasdaq_100,Nasdaq_100_return,HSI,HSI_return,SH,SH_return,BTC,BTC_return
+date,DJIA,DJIA_return,Nasdaq_Composite_Index,Nasdaq_Composite_Index_return,S_P500,S_P500_return,Nasdaq_100,Nasdaq_100_return,HSI,HSI_return,SH,SH_return,BTC,BTC_return
 06th week of 1971,888.83,44.32647413,102.05,172.7083782,98.43,54.92807071,,,,,,,,
 07th week of 1971,878.56,44.85632171,100.7,175.03714,96.74,55.90510647,,,,,,,,
 08th week of 1971,878.83,44.84223342,101.34,173.9253996,96.75,55.89922481,,,,,,,,
