@@ -70,7 +70,7 @@ const preprocessData = (data: TransformedData[]): TransformedData[] => {
 };
 
 export const IndexReturnChart = (props: Props) => {
-    const interval = 4; // Display every 4th data point
+    const interval = 1; // Display every 4th data point
 
     const initialRange: [number, number] = [0, props.data.length - 1];
 
