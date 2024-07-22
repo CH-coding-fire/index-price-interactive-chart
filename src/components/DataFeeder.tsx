@@ -34,8 +34,9 @@ export const DataFeeder = (props: Props) => {
             .catch(error => console.error('Error fetching the CSV file:', error));
     };
     return (
-        <div>
-            <IndexReturnChart data={data} />
+        <div style={{height: "20%", width: "80%"}}>
+            <h1>Return% of 1971-2024/7/18</h1>
+            <IndexReturnChart data={data}/>
         </div>
     );
 };
