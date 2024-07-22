@@ -22,3 +22,10 @@
   background: #ddd;
   border-radius: 999px;
 }
+
+.put-middle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
